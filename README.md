@@ -1,16 +1,31 @@
-### Hi there 👋
+### Olá, me chamo Laysa 👋
 
-<!--
-**LaysaFernanda/LaysaFernanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Sou recém formada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia.
 
-Here are some ideas to get you started:
+Atualmente estou cursando o Bootcamp de Análise de Dados na TripleTen de 7 meses (antiga Practicum). Estou finalizando o 2º módulo (são 3), e ao final do 1º módulo fui considerada a melhor aluna.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No curso já aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), transformação e pré processamento de dados, análise exploratória e estatística de dados, coleta e armazenamento de dados com SQL, análise de negócios, tomada de decisões, testes estatísticos e A/B, etc. Ainda há mais nos próximos 2 meses, como automação, previsões e predições e Tableau.  
+
+- 📈 Vem conferir um pouco dos meus projetos: https://github.com/LaysaFernanda?tab=repositories
+
+Alguns cursos que já fiz:
+| Curso | Instituição | Ano |
+| ------------- | ------------- |--------|
+| Introdução à Lógica da Programação  | Impacta Treinamentos  |   2019     |
+| Python - Programando com a Linguagem  | Impacta Treinamentos  |   2020     |
+| SQL 2016 - Módulo I  | Impacta Treinamentos  |   2020     |
+| Power BI Desktop  | Impacta Treinamentos  |   2021    |
+| Excel 2019 - Módulo I  | Impacta Treinamentos  |   2021     |
+| Excel 2019 - Módulo II  | Impacta Treinamentos  |   2021     |
+| MongoDB - Introdução Prática  | Impacta Treinamentos  |   2022     |
+| Power BI - Funções DAX na Prática  | Impacta Treinamentos  |   2022     |
+| ETL na Prática - Como Trabalhar com Dados  | Impacta Treinamentos  |   2022     |
+
+- 📫 Como chegar até mim: 
+    - 📧: laysa.prof19@gmail.com
+    - Linkedin: https://www.linkedin.com/in/laysa-fernanda-amaral-silva/
+      
+- ⚡ Curiosidades sobre mim / Hobbies:
+  - 🤓 Sempre fui apaixonada por lógica, desde criança passava horas resolvendo exercícios de raciocínio lógico online.
+  - 🎼 Sou uma amante da música e instrumentos musicais; amo tocar órgão/teclado e violão.
+  - 🎥 Sou potterhead e fã de carteirinha dos filmes da Marvel
