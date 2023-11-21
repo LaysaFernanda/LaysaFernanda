@@ -2,9 +2,9 @@
 
 - 🎓 Sou recém formada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia.
 
-Atualmente estou cursando o Bootcamp de Análise de Dados na TripleTen de 7 meses (antiga Practicum). Estou finalizando o 3º módulo, e ao final do 1º módulo fui considerada a melhor aluna.
+Finalizei recentemente o Bootcamp de Análise de Dados na TripleTen de 7 meses (antiga Practicum). Ao final do 1º módulo fui considerada a melhor aluna.
 
-No curso já aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), transformação e pré processamento de dados, análise exploratória e estatística de dados, coleta e armazenamento de dados com SQL, análise de negócios, tomada de decisões, testes estatísticos e A/B, automação, previsões e predições e Tableau.  
+No curso aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados (pandas, numpy, matplotlib, plotly, scipy, entre outras), transformação e pré processamento de dados, análise exploratória e estatística de dados, coleta e armazenamento de dados com SQL, análise de negócios, tomada de decisões, testes estatísticos e A/B, automação, previsões e predições e Tableau.  
 
 - 📈 Vem conferir um pouco dos meus projetos: https://github.com/LaysaFernanda?tab=repositories
 
